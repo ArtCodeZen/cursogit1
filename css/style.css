@@ -1,4 +1,7 @@
 p{
-    color: green;
+    color: rgb(227, 247, 227);
     font-size: 100px;
+}
+body{
+    margin: 0;
 }
