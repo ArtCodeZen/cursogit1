@@ -1,2 +1,2 @@
 # INFOS
-> novas infos
+. Adicionando novas infos
