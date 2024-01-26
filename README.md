@@ -1,2 +1,2 @@
 # INFOS
-. Adicionando novas infos kkkkkk
+. Informativos git
