@@ -1,0 +1,3 @@
+[submodule "cursogitSubModule"]
+	path = cursogitSubModule
+	url = git@github.com:ArtCodeZen/cursogitSubModule.git
