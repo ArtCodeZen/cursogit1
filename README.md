@@ -1,2 +1,2 @@
 # INFOS
-> novas infos
+. Informativos git
